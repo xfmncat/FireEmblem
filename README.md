@@ -1,2 +1,2 @@
-# FireEmblem-
-Games.
+# FireEmblem
+ゲームボーイアドバンス
